@@ -1,4 +1,4 @@
-# Hi 👋 I'm Jitender Sarswat
+# Hi, I'm Jitender Sarswat
 
 💻 MERN Stack Developer | 📊 Data Analyst | 🎓 Tech Mentor
 
